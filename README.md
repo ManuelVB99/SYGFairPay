@@ -1,4 +1,4 @@
-# FairPay
+# SYG | FairPay
 
 App para repartir gastos en grupo, al estilo de Tricount, con una diferencia: además de a partes iguales, permite repartir **por porcentajes personalizados** o **proporcionalmente al sueldo** de cada persona.
 
